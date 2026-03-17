@@ -1,6 +1,7 @@
 # Mpox Leakage-Aware Benchmark Code
 
 This repository contains the **code-only** release for a leakage-aware mpox skin-lesion classification benchmark.
+It packages the main training pipeline, dataset preparation script, example manifests, and the fold-level summary artifacts used to report the benchmark results.
 
 ## Included
 
@@ -40,6 +41,17 @@ This repository contains the **code-only** release for a leakage-aware mpox skin
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+```
+
+### PyTorch / torchvision note
+
+`main.py` depends on a compatible `torch` / `torchvision` pair. On Windows with GPU support, install the versions recommended by the official PyTorch selector first, then install the remaining Python dependencies from `requirements.txt`.
+
+A quick sanity check before launching the full benchmark is:
+
+```cmd
+python -c "import torch, torchvision; print(torch.__version__, torchvision.__version__)"
+python main.py --help
 ```
 
 ## Expected data layout
@@ -131,6 +143,26 @@ python main.py ^
 ```cmd
 python scripts\prepare_unified_mpox_dataset.py --help
 ```
+
+By default, the preparation script writes **basename-only** manifest files so they can be versioned safely without exposing local absolute paths.
+
+## Optional dependencies
+
+The default benchmark path does not require experiment tracking, Quanv, or disk-backed feature caches. If you enable those options, install the extra packages listed in `requirements-optional.txt`.
+
+## Repository sanity check
+
+Before pushing changes, you can run:
+
+```cmd
+python scripts\sanity_check.py
+```
+
+This verifies the main entry points compile, the example config references repository-local manifests, and the checked-in manifests do not contain private absolute paths.
+
+## Outputs
+
+A full run writes fold-specific artifacts under the configured output directory, including model-level subdirectories, summary CSV/JSON files, ROC and PR data, confusion matrices, and ensemble outputs. The checked-in `results/` folder only stores the compact summary artifacts needed to document the benchmark.
 
 ## Reported benchmark characteristics
 

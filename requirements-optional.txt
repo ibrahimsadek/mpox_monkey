@@ -1,0 +1,6 @@
+# Optional dependencies used only when specific features are enabled.
+mlflow
+numcodecs
+pennylane
+wandb
+zarr

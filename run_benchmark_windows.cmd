@@ -1,0 +1,66 @@
+@echo off
+setlocal
+
+python main.py ^
+  --data_root "C:\path\to\data\augmented_images" ^
+  --pos_class "Monkeypox_augmented" ^
+  --neg_class "Others_augmented" ^
+  --pos_list_file "manifests\Unified_Monkey_Aug.txt" ^
+  --neg_list_file "manifests\Unified_NonMonkey_Aug.txt" ^
+  --orig_root "C:\path\to\data\original_images" ^
+  --orig_pos_class "Monkey Pox" ^
+  --orig_neg_class "Others" ^
+  --orig_pos_list_file "manifests\Unified_Monkey_Original.txt" ^
+  --orig_neg_list_file "manifests\Unified_NonMonkey_Original.txt" ^
+  --eval_on_original_only ^
+  --split_strategy group_stratified ^
+  --group_mode regex ^
+  --group_regex "^(?:v[0-9]+__)?(.+?)(?:_(?:ORIGINAL|[0-9]+))?$" ^
+  --cv_folds 5 ^
+  --cv_val_frac 0.20 ^
+  --models "efficientnetv2_s,convnext_tiny,vit_b_16,resnet50,densenet121,efficientnet_b0,mobilenet_v3_large" ^
+  --img_size 224 ^
+  --pretrained ^
+  --amp ^
+  --tta 16 ^
+  --use_weighted_sampler ^
+  --train_mix original+aug ^
+  --train_orig_ratio 0.7 ^
+  --max_aug_per_group 3 ^
+  --finetune_on_original ^
+  --finetune_epochs 5 ^
+  --finetune_lr 1e-5 ^
+  --freeze_backbone_epochs 0 ^
+  --moo_enable ^
+  --moo_objectives "auc,f1_at_precision,logloss" ^
+  --moo_directions "maximize,maximize,minimize" ^
+  --moo_selection_strategy f1_at_precision_first ^
+  --moo_precision_target 0.80 ^
+  --moo_constraint_auc_target 0.80 ^
+  --moo_constraint_f1_target 0.80 ^
+  --moo_eval_epochs 6 ^
+  --moo_population_size 8 ^
+  --moo_generations 3 ^
+  --moo_top_k 3 ^
+  --calibrate temperature ^
+  --weighted_ensemble ^
+  --ensemble_weight_metric f1_at_precision ^
+  --ensemble_weight_opt random_search ^
+  --ensemble_weight_trials 4096 ^
+  --ensemble_weight_seed 42 ^
+  --early_stop_patience 4 ^
+  --early_stop_metric f1_at_precision ^
+  --threshold_strategy f1_at_precision ^
+  --precision_target 0.80 ^
+  --moo_plot ^
+  --rag_enable ^
+  --rag_model auto ^
+  --rag_index_source train_orig_only ^
+  --rag_k 25 ^
+  --rag_alpha 0.25 ^
+  --rag_metric cosine ^
+  --rag_weighted ^
+  --rag_temp 0.07 ^
+  --rag_chunk 512 ^
+  --rag_tta 0 ^
+  --plot_dpi 600

@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
-"""
-Enhanced Leakage-aware reproduction script for:
-"AI-Driven Diagnosis of Monkeypox using Deep Learning Models"
+"""Main training and evaluation entry point for the leakage-aware mpox benchmark.
 
-ADDITIONS:
-1. Dataset balancing (undersampling/oversampling) with group awareness
-2. Automatic dataset statistics and visualization
-3. Enhanced data loading with balancing strategies
-4. Integrated dataset analysis before training
+The script supports grouped cross-validation, original-vs-augmented training
+mixes, calibration, threshold selection, ensembling, optional Optuna/NSGA-II
+search, and a set of auxiliary analysis features.
 """
 
 from __future__ import annotations
@@ -61,8 +57,15 @@ import torch.nn.functional as F
 import torch.nn.utils.prune as prune
 import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, Subset, WeightedRandomSampler
-from torchvision import transforms, models
-from torchvision.datasets.folder import default_loader
+try:
+    from torchvision import transforms, models
+    from torchvision.datasets.folder import default_loader
+except Exception as e:
+    raise SystemExit(
+        "Failed to import torchvision. Ensure that torch and torchvision are installed "
+        "as a compatible pair for your Python/CUDA build. See https://pytorch.org/get-started/locally/. "
+        f"Original error: {e}"
+    )
 
 from sklearn.model_selection import GroupShuffleSplit, StratifiedShuffleSplit
 from sklearn.linear_model import LogisticRegression, LogisticRegressionCV
@@ -1044,7 +1047,7 @@ def build_splits_random_stratified(
 
 
 # ============================================================================
-# Advanced optional features (merged from monkeypoxScript.py)
+# Advanced optional features
 # ============================================================================
 # NEW: Advanced Imports for Enhanced Features
 # ============================================================================
@@ -5686,7 +5689,7 @@ class QuanvBackboneWrapper(nn.Module):
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Enhanced CLI-only reproduction for mpox image classification with dataset balancing."
+        description="CLI benchmark pipeline for leakage-aware mpox image classification."
     )
 
     # Data arguments
@@ -5769,7 +5772,7 @@ def main() -> None:
     parser.add_argument("--num_workers", type=int, default=2)
 
     # Output arguments
-    parser.add_argument("--output_dir", type=str, default="outputs_mpox_balanced")
+    parser.add_argument("--output_dir", type=str, default="outputs")
     parser.add_argument("--plot_dpi", type=int, default=600)
 
     # Split arguments

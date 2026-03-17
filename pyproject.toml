@@ -1,0 +1,16 @@
+[project]
+name = "mpox-leakage-aware-benchmark"
+version = "0.1.0"
+description = "Leakage-aware mpox skin-lesion classification benchmark code."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+ignore = ["E501"]

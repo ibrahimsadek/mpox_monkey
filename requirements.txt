@@ -1,10 +1,16 @@
-numpy
-pandas
+# Core dependencies for the benchmark pipeline.
+# Install a compatible torch / torchvision pair first if you need a CUDA-enabled build:
+# https://pytorch.org/get-started/locally/
+
 matplotlib
+numpy
+optuna
+pandas
+Pillow
+psutil
+scikit-learn
+scipy
+timm
 torch
 torchvision
-scikit-learn
 tqdm
-optuna
-timm
-Pillow

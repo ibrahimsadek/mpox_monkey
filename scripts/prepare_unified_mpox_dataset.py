@@ -1,3 +1,10 @@
+"""Utility script to build a unified, leakage-aware mpox dataset layout.
+
+This script merges a base dataset with MSLD v1.0 and MSLD v2.0, applies
+augmentation controls, optionally de-duplicates exact files, materializes a
+curated folder structure, and writes manifest files for downstream training.
+"""
+
 import os
 import re
 import shutil
@@ -111,11 +118,37 @@ def dedup_exact(paths: List[Path], seed: int) -> List[Path]:
     out.sort(key=lambda x: str(x).lower())
     return out
 
-def write_listfile(paths: List[Path], out_path: Path) -> None:
+def write_listfile(paths: List[Path], out_path: Path, mode: str = "name", base_dir: Optional[Path] = None) -> None:
+    """Write a manifest file.
+
+    Parameters
+    ----------
+    paths:
+        Materialized file paths to record.
+    out_path:
+        Destination manifest file.
+    mode:
+        One of ``name`` (basename only), ``relative`` (relative to ``base_dir``),
+        or ``absolute``. Basename-only manifests are the safest default for
+        public repositories because they do not expose local paths and are
+        compatible with ``read_name_list`` in ``main.py``.
+    base_dir:
+        Root used when ``mode='relative'``.
+    """
     out_path.parent.mkdir(parents=True, exist_ok=True)
+    if mode not in {"name", "relative", "absolute"}:
+        raise ValueError(f"Unknown list mode: {mode}")
     with out_path.open("w", encoding="utf-8") as f:
         for p in paths:
-            f.write(str(p) + "\n")
+            if mode == "name":
+                value = p.name
+            elif mode == "relative":
+                if base_dir is None:
+                    raise ValueError("base_dir is required when list mode is 'relative'")
+                value = str(p.relative_to(base_dir))
+            else:
+                value = str(p.resolve())
+            f.write(value + "\n")
 
 def main():
     ap = argparse.ArgumentParser("Prepare unified Mpox dataset from your data + MSLD v1 + MSLD v2")
@@ -150,6 +183,8 @@ def main():
     ap.add_argument("--dedup_exact", action="store_true", help="Exact dedup by SHA1 across each pool (slower, but safer).")
     ap.add_argument("--out_root", required=True, help="Output folder to write unified curated dataset")
     ap.add_argument("--mode", choices=["copy", "hardlink", "symlink"], default="copy", help="How to materialize files (copy is safest).")
+    ap.add_argument("--list_mode", choices=["name", "relative", "absolute"], default="name",
+                    help="Manifest path style. 'name' is the safest default for reproducible public repos.")
 
     args = ap.parse_args()
 
@@ -252,10 +287,10 @@ def main():
     # v2
     # (We detect by substring, not perfect but practical)
     def prefix_for(p: Path) -> str:
-        s = str(p).lower()
-        if "\\msld v1.0\\" in s:
+        parts_lower = {part.lower() for part in p.parts}
+        if "msld v1.0" in parts_lower:
             return "v1"
-        if "\\msld v2.0\\" in s:
+        if "msld v2.0" in parts_lower:
             return "v2"
         return "base"
 
@@ -309,12 +344,12 @@ def main():
         except Exception:
             pass
 
-    # ---- Write list files (absolute paths) ----
+    # ---- Write list files ----
     lists_dir = out_root / "lists"
-    write_listfile(sorted(orig_pos_paths_out, key=lambda x: str(x).lower()), lists_dir / "Unified_Monkey_Original.txt")
-    write_listfile(sorted(orig_neg_paths_out, key=lambda x: str(x).lower()), lists_dir / "Unified_NonMonkey_Original.txt")
-    write_listfile(sorted(aug_pos_paths_out,  key=lambda x: str(x).lower()), lists_dir / "Unified_Monkey_Aug.txt")
-    write_listfile(sorted(aug_neg_paths_out,  key=lambda x: str(x).lower()), lists_dir / "Unified_NonMonkey_Aug.txt")
+    write_listfile(sorted(orig_pos_paths_out, key=lambda x: str(x).lower()), lists_dir / "Unified_Monkey_Original.txt", mode=args.list_mode, base_dir=out_root)
+    write_listfile(sorted(orig_neg_paths_out, key=lambda x: str(x).lower()), lists_dir / "Unified_NonMonkey_Original.txt", mode=args.list_mode, base_dir=out_root)
+    write_listfile(sorted(aug_pos_paths_out,  key=lambda x: str(x).lower()), lists_dir / "Unified_Monkey_Aug.txt", mode=args.list_mode, base_dir=out_root)
+    write_listfile(sorted(aug_neg_paths_out,  key=lambda x: str(x).lower()), lists_dir / "Unified_NonMonkey_Aug.txt", mode=args.list_mode, base_dir=out_root)
 
     # ---- Print summary ----
     print("\n=== Curated dataset created ===")
