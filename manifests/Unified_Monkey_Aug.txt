@@ -1,593 +1,593 @@
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M01_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M01_02_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M01_03_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M01_03_07.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M01_04_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M02_02_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M05_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M07_01_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M07_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M08_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M09_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M09_03_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M10_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M11_01_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M11_01_09.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M12_01_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M12_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M14_01_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M14_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M15_01_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M16_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M16_01_09.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M17_02_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M18_02_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M19_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M21_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M22_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M22_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M23_01_09.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M24_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M24_02_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M25_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M26_01_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M26_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M26_02_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M27_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_02_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_02_07.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_03_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_03_07.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M28_04_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M29_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M29_02_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M30_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M30_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M31_01_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M31_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M31_02_03.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M32_02_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M32_03_08.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M32_04_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M33_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M34_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M34_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M34_02_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M34_04_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M35_02_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M35_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M36_01_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M37_01_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M37_01_08.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M38_02_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M39_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M40_03_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M41_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M42_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M43_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M43_03_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M44_01_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M44_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M45_01_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M46_01_00.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M46_02_07.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M48_01_05.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M49_01_01.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M49_01_07.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M49_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M49_02_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M49_03_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M50_01_09.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M50_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M50_03_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M51_01_04.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M51_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M51_02_02.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M52_01_08.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M52_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M53_01_08.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v1__M55_01_06.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_02_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_03_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_01_04_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_02_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_02_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_02_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_03_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_03_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_04_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_04_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_05_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_05_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_05_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_05_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_06_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_06_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_06_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_06_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_07_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_07_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_07_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_07_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_08_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_08_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_04_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_09_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_100_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_100_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_100_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_101_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_101_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_101_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_102_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_102_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_102_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_102_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_103_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_103_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_104_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_104_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_105_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_105_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_105_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_106_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_107_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_107_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_108_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_108_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_108_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_108_03_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_108_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_109_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_10_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_10_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_10_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_110_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_110_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_110_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_111_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_111_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_111_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_111_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_112_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_112_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_112_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_112_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_113_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_113_02_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_113_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_113_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_114_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_114_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_114_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_114_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_115_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_115_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_115_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_116_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_116_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_117_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_118_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_118_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_02_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_119_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_11_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_120_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_120_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_120_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_120_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_122_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_122_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_122_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_124_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_124_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_124_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_124_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_126_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_126_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_128_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_128_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_129_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_129_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_12_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_132_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_132_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_133_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_133_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_133_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_134_01_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_134_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_135_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_135_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_136_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_136_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_136_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_138_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_138_02_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_139_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_139_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_139_02_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_13_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_13_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_141_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_04_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_06_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_07_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_08_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_142_08_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_143_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_143_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_14_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_15_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_15_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_15_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_15_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_16_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_16_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_16_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_17_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_17_02_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_17_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_18_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_18_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_18_02_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_18_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_19_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_19_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_19_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_19_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_19_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_20_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_20_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_20_02_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_20_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_21_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_21_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_21_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_22_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_22_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_24_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_25_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_25_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_25_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_27_01_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_27_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_28_04_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_29_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_29_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_29_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_29_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_31_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_31_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_31_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_31_02_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_31_02_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_03_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_03_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_04_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_32_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_33_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_33_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_33_02_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_33_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_33_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_03_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_34_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_35_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_35_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_37_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_37_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_37_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_38_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_38_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_38_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_38_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_39_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_39_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_39_02_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_40_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_40_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_40_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_41_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_41_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_42_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_42_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_42_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_42_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_42_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_02_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_03_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_43_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_44_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_44_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_45_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_45_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_46_02_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_47_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_47_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_48_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_48_02_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_48_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_48_03_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_48_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_02_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_49_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_50_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_50_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_50_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_50_03_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_50_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_02_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_51_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_52_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_53_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_53_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_53_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_54_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_54_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_56_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_56_02_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_57_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_57_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_02_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_02_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_04_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_06_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_06_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_07_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_07_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_08_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_09_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_09_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_09_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_09_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_10_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_10_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_10_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_10_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_11_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_11_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_11_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_12_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_13_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_13_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_13_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_14_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_58_14_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_59_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_60_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_60_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_60_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_02_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_61_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_62_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_62_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_62_03_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_02_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_03_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_04_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_06_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_06_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_07_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_08_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_08_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_08_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_09_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_63_09_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_02_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_03_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_07_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_07_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_64_08_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_65_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_65_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_66_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_66_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_66_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_67_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_67_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_68_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_68_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_69_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_69_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_69_02_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_69_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_69_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_70_01_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_70_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_71_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_71_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_71_03_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_71_04_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_71_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_02_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_02_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_03_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_04_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_05_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_06_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_06_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_07_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_08_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_72_08_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_02_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_73_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_01_12.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_02_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_02_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_03_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_74_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_75_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_75_04_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_75_05_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_75_06_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_75_06_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_76_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_76_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_76_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_77_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_02_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_05_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_05_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_06_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_78_07_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_79_01_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_79_01_7.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_79_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_79_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_01_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_80_04_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_81_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_81_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_81_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_81_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_81_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_82_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_82_02_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_01_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_02_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_02_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_03_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_05_2.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_05_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_06_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_83_06_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_02_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_86_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_87_01_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_87_03_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_87_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_88_01_5.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_88_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_88_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_88_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_88_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_01_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_02_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_02_13.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_02_3.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_03_4.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_03_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_04_11.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_04_8.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_90_04_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_91_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_92_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_92_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_93_02_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_93_03_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_93_04_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_94_01_10.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_94_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_94_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_95_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_95_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_96_01_9.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_97_01_6.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_97_01_ORIGINAL.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_98_01_1.jpg
-D:\Ibrahim\BassamGaF\Analysis\Data\Unified_Selected\Augmented Images\Monkeypox_augmented\v2__MKP_98_01_4.jpg
+v1__M01_01_12.jpg
+v1__M01_02_05.jpg
+v1__M01_03_03.jpg
+v1__M01_03_07.jpg
+v1__M01_04_06.jpg
+v1__M02_02_00.jpg
+v1__M05_01_00.jpg
+v1__M07_01_03.jpg
+v1__M07_01_12.jpg
+v1__M08_01_10.jpg
+v1__M09_01_12.jpg
+v1__M09_03_02.jpg
+v1__M10_02_10.jpg
+v1__M11_01_02.jpg
+v1__M11_01_09.jpg
+v1__M12_01_04.jpg
+v1__M12_01_13.jpg
+v1__M14_01_03.jpg
+v1__M14_01_10.jpg
+v1__M15_01_05.jpg
+v1__M16_01_00.jpg
+v1__M16_01_09.jpg
+v1__M17_02_01.jpg
+v1__M18_02_03.jpg
+v1__M19_02_10.jpg
+v1__M21_01_01.jpg
+v1__M22_01_10.jpg
+v1__M22_01_12.jpg
+v1__M23_01_09.jpg
+v1__M24_01_00.jpg
+v1__M24_02_03.jpg
+v1__M25_01_00.jpg
+v1__M26_01_02.jpg
+v1__M26_01_12.jpg
+v1__M26_02_05.jpg
+v1__M27_01_10.jpg
+v1__M28_02_02.jpg
+v1__M28_02_07.jpg
+v1__M28_02_10.jpg
+v1__M28_03_00.jpg
+v1__M28_03_07.jpg
+v1__M28_04_01.jpg
+v1__M29_01_11.jpg
+v1__M29_02_12.jpg
+v1__M30_01_01.jpg
+v1__M30_01_13.jpg
+v1__M31_01_06.jpg
+v1__M31_01_11.jpg
+v1__M31_02_03.jpg
+v1__M32_02_02.jpg
+v1__M32_03_08.jpg
+v1__M32_04_11.jpg
+v1__M33_01_01.jpg
+v1__M34_01_00.jpg
+v1__M34_01_01.jpg
+v1__M34_02_06.jpg
+v1__M34_04_05.jpg
+v1__M35_02_05.jpg
+v1__M35_02_11.jpg
+v1__M36_01_04.jpg
+v1__M37_01_02.jpg
+v1__M37_01_08.jpg
+v1__M38_02_00.jpg
+v1__M39_01_01.jpg
+v1__M40_03_04.jpg
+v1__M41_01_01.jpg
+v1__M42_01_12.jpg
+v1__M43_01_00.jpg
+v1__M43_03_00.jpg
+v1__M44_01_04.jpg
+v1__M44_01_10.jpg
+v1__M45_01_04.jpg
+v1__M46_01_00.jpg
+v1__M46_02_07.jpg
+v1__M48_01_05.jpg
+v1__M49_01_01.jpg
+v1__M49_01_07.jpg
+v1__M49_01_12.jpg
+v1__M49_02_12.jpg
+v1__M49_03_06.jpg
+v1__M50_01_09.jpg
+v1__M50_02_10.jpg
+v1__M50_03_06.jpg
+v1__M51_01_04.jpg
+v1__M51_01_12.jpg
+v1__M51_02_02.jpg
+v1__M52_01_08.jpg
+v1__M52_01_13.jpg
+v1__M53_01_08.jpg
+v1__M55_01_06.jpg
+v2__MKP_01_01_11.jpg
+v2__MKP_01_01_ORIGINAL.jpg
+v2__MKP_01_02_1.jpg
+v2__MKP_01_03_2.jpg
+v2__MKP_01_03_ORIGINAL.jpg
+v2__MKP_01_04_8.jpg
+v2__MKP_02_01_4.jpg
+v2__MKP_02_01_5.jpg
+v2__MKP_02_02_ORIGINAL.jpg
+v2__MKP_03_01_6.jpg
+v2__MKP_03_01_ORIGINAL.jpg
+v2__MKP_04_01_12.jpg
+v2__MKP_04_01_ORIGINAL.jpg
+v2__MKP_05_01_ORIGINAL.jpg
+v2__MKP_05_01_ORIGINAL.jpg
+v2__MKP_05_02_2.jpg
+v2__MKP_05_02_ORIGINAL.jpg
+v2__MKP_06_01_5.jpg
+v2__MKP_06_01_ORIGINAL.jpg
+v2__MKP_06_02_2.jpg
+v2__MKP_06_02_ORIGINAL.jpg
+v2__MKP_07_01_12.jpg
+v2__MKP_07_01_5.jpg
+v2__MKP_07_01_ORIGINAL.jpg
+v2__MKP_07_01_ORIGINAL.jpg
+v2__MKP_08_01_1.jpg
+v2__MKP_08_01_ORIGINAL.jpg
+v2__MKP_09_01_13.jpg
+v2__MKP_09_01_ORIGINAL.jpg
+v2__MKP_09_02_ORIGINAL.jpg
+v2__MKP_09_04_11.jpg
+v2__MKP_09_04_ORIGINAL.jpg
+v2__MKP_09_04_ORIGINAL.jpg
+v2__MKP_09_04_ORIGINAL.jpg
+v2__MKP_100_01_11.jpg
+v2__MKP_100_01_11.jpg
+v2__MKP_100_01_ORIGINAL.jpg
+v2__MKP_101_01_10.jpg
+v2__MKP_101_01_ORIGINAL.jpg
+v2__MKP_101_01_ORIGINAL.jpg
+v2__MKP_102_01_1.jpg
+v2__MKP_102_01_10.jpg
+v2__MKP_102_01_ORIGINAL.jpg
+v2__MKP_102_01_ORIGINAL.jpg
+v2__MKP_103_01_10.jpg
+v2__MKP_103_01_8.jpg
+v2__MKP_104_01_ORIGINAL.jpg
+v2__MKP_104_01_ORIGINAL.jpg
+v2__MKP_105_01_ORIGINAL.jpg
+v2__MKP_105_01_ORIGINAL.jpg
+v2__MKP_105_02_ORIGINAL.jpg
+v2__MKP_106_01_1.jpg
+v2__MKP_107_01_2.jpg
+v2__MKP_107_01_ORIGINAL.jpg
+v2__MKP_108_01_6.jpg
+v2__MKP_108_02_11.jpg
+v2__MKP_108_02_2.jpg
+v2__MKP_108_03_4.jpg
+v2__MKP_108_03_ORIGINAL.jpg
+v2__MKP_109_01_7.jpg
+v2__MKP_10_01_12.jpg
+v2__MKP_10_02_10.jpg
+v2__MKP_10_02_ORIGINAL.jpg
+v2__MKP_110_01_4.jpg
+v2__MKP_110_01_ORIGINAL.jpg
+v2__MKP_110_01_ORIGINAL.jpg
+v2__MKP_111_01_5.jpg
+v2__MKP_111_01_7.jpg
+v2__MKP_111_01_ORIGINAL.jpg
+v2__MKP_111_01_ORIGINAL.jpg
+v2__MKP_112_01_1.jpg
+v2__MKP_112_01_10.jpg
+v2__MKP_112_01_ORIGINAL.jpg
+v2__MKP_112_01_ORIGINAL.jpg
+v2__MKP_113_01_ORIGINAL.jpg
+v2__MKP_113_02_1.jpg
+v2__MKP_113_02_ORIGINAL.jpg
+v2__MKP_113_03_ORIGINAL.jpg
+v2__MKP_114_01_4.jpg
+v2__MKP_114_01_6.jpg
+v2__MKP_114_01_7.jpg
+v2__MKP_114_01_ORIGINAL.jpg
+v2__MKP_115_01_8.jpg
+v2__MKP_115_01_ORIGINAL.jpg
+v2__MKP_115_01_ORIGINAL.jpg
+v2__MKP_116_01_12.jpg
+v2__MKP_116_01_2.jpg
+v2__MKP_117_01_10.jpg
+v2__MKP_118_01_ORIGINAL.jpg
+v2__MKP_118_01_ORIGINAL.jpg
+v2__MKP_119_01_11.jpg
+v2__MKP_119_01_ORIGINAL.jpg
+v2__MKP_119_01_ORIGINAL.jpg
+v2__MKP_119_02_2.jpg
+v2__MKP_119_02_7.jpg
+v2__MKP_119_02_ORIGINAL.jpg
+v2__MKP_11_01_8.jpg
+v2__MKP_120_01_10.jpg
+v2__MKP_120_01_ORIGINAL.jpg
+v2__MKP_120_01_ORIGINAL.jpg
+v2__MKP_120_01_ORIGINAL.jpg
+v2__MKP_122_01_7.jpg
+v2__MKP_122_01_ORIGINAL.jpg
+v2__MKP_122_01_ORIGINAL.jpg
+v2__MKP_124_01_1.jpg
+v2__MKP_124_01_ORIGINAL.jpg
+v2__MKP_124_01_ORIGINAL.jpg
+v2__MKP_124_02_ORIGINAL.jpg
+v2__MKP_126_01_10.jpg
+v2__MKP_126_01_ORIGINAL.jpg
+v2__MKP_128_01_12.jpg
+v2__MKP_128_01_ORIGINAL.jpg
+v2__MKP_129_01_ORIGINAL.jpg
+v2__MKP_129_01_ORIGINAL.jpg
+v2__MKP_12_01_ORIGINAL.jpg
+v2__MKP_132_01_6.jpg
+v2__MKP_132_01_ORIGINAL.jpg
+v2__MKP_133_01_7.jpg
+v2__MKP_133_01_ORIGINAL.jpg
+v2__MKP_133_01_ORIGINAL.jpg
+v2__MKP_134_01_3.jpg
+v2__MKP_134_01_ORIGINAL.jpg
+v2__MKP_135_01_2.jpg
+v2__MKP_135_01_9.jpg
+v2__MKP_136_01_2.jpg
+v2__MKP_136_01_7.jpg
+v2__MKP_136_01_ORIGINAL.jpg
+v2__MKP_138_01_2.jpg
+v2__MKP_138_02_3.jpg
+v2__MKP_139_01_13.jpg
+v2__MKP_139_01_ORIGINAL.jpg
+v2__MKP_139_02_9.jpg
+v2__MKP_13_01_5.jpg
+v2__MKP_13_01_ORIGINAL.jpg
+v2__MKP_141_01_10.jpg
+v2__MKP_142_01_12.jpg
+v2__MKP_142_01_ORIGINAL.jpg
+v2__MKP_142_04_11.jpg
+v2__MKP_142_04_ORIGINAL.jpg
+v2__MKP_142_05_ORIGINAL.jpg
+v2__MKP_142_06_10.jpg
+v2__MKP_142_07_8.jpg
+v2__MKP_142_08_2.jpg
+v2__MKP_142_08_5.jpg
+v2__MKP_143_01_ORIGINAL.jpg
+v2__MKP_143_02_ORIGINAL.jpg
+v2__MKP_14_01_8.jpg
+v2__MKP_15_01_7.jpg
+v2__MKP_15_01_8.jpg
+v2__MKP_15_01_ORIGINAL.jpg
+v2__MKP_15_01_ORIGINAL.jpg
+v2__MKP_16_01_4.jpg
+v2__MKP_16_01_ORIGINAL.jpg
+v2__MKP_16_01_ORIGINAL.jpg
+v2__MKP_17_01_ORIGINAL.jpg
+v2__MKP_17_02_9.jpg
+v2__MKP_17_02_ORIGINAL.jpg
+v2__MKP_18_01_4.jpg
+v2__MKP_18_01_ORIGINAL.jpg
+v2__MKP_18_02_4.jpg
+v2__MKP_18_02_ORIGINAL.jpg
+v2__MKP_19_02_11.jpg
+v2__MKP_19_02_11.jpg
+v2__MKP_19_02_ORIGINAL.jpg
+v2__MKP_19_02_ORIGINAL.jpg
+v2__MKP_19_02_ORIGINAL.jpg
+v2__MKP_20_01_ORIGINAL.jpg
+v2__MKP_20_01_ORIGINAL.jpg
+v2__MKP_20_02_13.jpg
+v2__MKP_20_02_ORIGINAL.jpg
+v2__MKP_21_01_2.jpg
+v2__MKP_21_02_ORIGINAL.jpg
+v2__MKP_21_02_ORIGINAL.jpg
+v2__MKP_22_01_11.jpg
+v2__MKP_22_01_ORIGINAL.jpg
+v2__MKP_24_02_ORIGINAL.jpg
+v2__MKP_25_01_1.jpg
+v2__MKP_25_01_ORIGINAL.jpg
+v2__MKP_25_01_ORIGINAL.jpg
+v2__MKP_27_01_3.jpg
+v2__MKP_27_01_ORIGINAL.jpg
+v2__MKP_28_01_1.jpg
+v2__MKP_28_01_9.jpg
+v2__MKP_28_01_ORIGINAL.jpg
+v2__MKP_28_01_ORIGINAL.jpg
+v2__MKP_28_02_10.jpg
+v2__MKP_28_02_10.jpg
+v2__MKP_28_03_ORIGINAL.jpg
+v2__MKP_28_04_10.jpg
+v2__MKP_29_01_ORIGINAL.jpg
+v2__MKP_29_01_ORIGINAL.jpg
+v2__MKP_29_01_ORIGINAL.jpg
+v2__MKP_29_02_ORIGINAL.jpg
+v2__MKP_31_01_4.jpg
+v2__MKP_31_01_8.jpg
+v2__MKP_31_01_ORIGINAL.jpg
+v2__MKP_31_02_12.jpg
+v2__MKP_31_02_9.jpg
+v2__MKP_32_01_ORIGINAL.jpg
+v2__MKP_32_02_11.jpg
+v2__MKP_32_02_2.jpg
+v2__MKP_32_03_11.jpg
+v2__MKP_32_03_4.jpg
+v2__MKP_32_03_ORIGINAL.jpg
+v2__MKP_32_04_1.jpg
+v2__MKP_32_04_ORIGINAL.jpg
+v2__MKP_33_01_5.jpg
+v2__MKP_33_01_8.jpg
+v2__MKP_33_02_12.jpg
+v2__MKP_33_02_ORIGINAL.jpg
+v2__MKP_33_02_ORIGINAL.jpg
+v2__MKP_34_01_1.jpg
+v2__MKP_34_01_ORIGINAL.jpg
+v2__MKP_34_02_2.jpg
+v2__MKP_34_02_ORIGINAL.jpg
+v2__MKP_34_03_2.jpg
+v2__MKP_34_03_ORIGINAL.jpg
+v2__MKP_35_01_4.jpg
+v2__MKP_35_01_ORIGINAL.jpg
+v2__MKP_37_01_5.jpg
+v2__MKP_37_01_ORIGINAL.jpg
+v2__MKP_37_01_ORIGINAL.jpg
+v2__MKP_38_01_10.jpg
+v2__MKP_38_01_2.jpg
+v2__MKP_38_02_11.jpg
+v2__MKP_38_02_2.jpg
+v2__MKP_39_01_11.jpg
+v2__MKP_39_01_ORIGINAL.jpg
+v2__MKP_39_02_3.jpg
+v2__MKP_40_01_7.jpg
+v2__MKP_40_02_2.jpg
+v2__MKP_40_03_ORIGINAL.jpg
+v2__MKP_41_01_7.jpg
+v2__MKP_41_01_ORIGINAL.jpg
+v2__MKP_42_01_4.jpg
+v2__MKP_42_01_6.jpg
+v2__MKP_42_01_ORIGINAL.jpg
+v2__MKP_42_02_ORIGINAL.jpg
+v2__MKP_42_02_ORIGINAL.jpg
+v2__MKP_43_02_3.jpg
+v2__MKP_43_02_ORIGINAL.jpg
+v2__MKP_43_02_ORIGINAL.jpg
+v2__MKP_43_02_ORIGINAL.jpg
+v2__MKP_43_03_3.jpg
+v2__MKP_43_03_ORIGINAL.jpg
+v2__MKP_43_03_ORIGINAL.jpg
+v2__MKP_44_01_1.jpg
+v2__MKP_44_01_ORIGINAL.jpg
+v2__MKP_45_01_ORIGINAL.jpg
+v2__MKP_45_01_ORIGINAL.jpg
+v2__MKP_46_02_1.jpg
+v2__MKP_47_01_7.jpg
+v2__MKP_47_01_8.jpg
+v2__MKP_48_01_ORIGINAL.jpg
+v2__MKP_48_02_4.jpg
+v2__MKP_48_02_ORIGINAL.jpg
+v2__MKP_48_03_10.jpg
+v2__MKP_48_03_ORIGINAL.jpg
+v2__MKP_49_01_12.jpg
+v2__MKP_49_01_7.jpg
+v2__MKP_49_01_ORIGINAL.jpg
+v2__MKP_49_02_9.jpg
+v2__MKP_49_02_ORIGINAL.jpg
+v2__MKP_49_02_ORIGINAL.jpg
+v2__MKP_49_03_ORIGINAL.jpg
+v2__MKP_49_03_ORIGINAL.jpg
+v2__MKP_50_01_5.jpg
+v2__MKP_50_01_ORIGINAL.jpg
+v2__MKP_50_01_ORIGINAL.jpg
+v2__MKP_50_03_5.jpg
+v2__MKP_50_03_ORIGINAL.jpg
+v2__MKP_51_01_4.jpg
+v2__MKP_51_01_ORIGINAL.jpg
+v2__MKP_51_01_ORIGINAL.jpg
+v2__MKP_51_02_1.jpg
+v2__MKP_51_02_ORIGINAL.jpg
+v2__MKP_51_02_ORIGINAL.jpg
+v2__MKP_52_01_ORIGINAL.jpg
+v2__MKP_53_01_10.jpg
+v2__MKP_53_01_5.jpg
+v2__MKP_53_01_ORIGINAL.jpg
+v2__MKP_54_01_13.jpg
+v2__MKP_54_01_ORIGINAL.jpg
+v2__MKP_56_01_6.jpg
+v2__MKP_56_02_5.jpg
+v2__MKP_57_01_ORIGINAL.jpg
+v2__MKP_57_01_ORIGINAL.jpg
+v2__MKP_58_02_2.jpg
+v2__MKP_58_02_7.jpg
+v2__MKP_58_03_ORIGINAL.jpg
+v2__MKP_58_04_10.jpg
+v2__MKP_58_05_ORIGINAL.jpg
+v2__MKP_58_06_3.jpg
+v2__MKP_58_06_7.jpg
+v2__MKP_58_07_7.jpg
+v2__MKP_58_07_ORIGINAL.jpg
+v2__MKP_58_08_ORIGINAL.jpg
+v2__MKP_58_09_3.jpg
+v2__MKP_58_09_4.jpg
+v2__MKP_58_09_ORIGINAL.jpg
+v2__MKP_58_09_ORIGINAL.jpg
+v2__MKP_58_10_13.jpg
+v2__MKP_58_10_4.jpg
+v2__MKP_58_10_ORIGINAL.jpg
+v2__MKP_58_10_ORIGINAL.jpg
+v2__MKP_58_11_12.jpg
+v2__MKP_58_11_7.jpg
+v2__MKP_58_11_ORIGINAL.jpg
+v2__MKP_58_12_ORIGINAL.jpg
+v2__MKP_58_13_1.jpg
+v2__MKP_58_13_6.jpg
+v2__MKP_58_13_ORIGINAL.jpg
+v2__MKP_58_14_6.jpg
+v2__MKP_58_14_ORIGINAL.jpg
+v2__MKP_59_01_11.jpg
+v2__MKP_60_01_10.jpg
+v2__MKP_60_01_9.jpg
+v2__MKP_60_02_ORIGINAL.jpg
+v2__MKP_61_01_11.jpg
+v2__MKP_61_01_4.jpg
+v2__MKP_61_01_ORIGINAL.jpg
+v2__MKP_61_01_ORIGINAL.jpg
+v2__MKP_61_02_10.jpg
+v2__MKP_61_02_11.jpg
+v2__MKP_61_02_12.jpg
+v2__MKP_61_02_ORIGINAL.jpg
+v2__MKP_61_02_ORIGINAL.jpg
+v2__MKP_62_01_ORIGINAL.jpg
+v2__MKP_62_02_ORIGINAL.jpg
+v2__MKP_62_03_13.jpg
+v2__MKP_63_01_2.jpg
+v2__MKP_63_01_5.jpg
+v2__MKP_63_02_10.jpg
+v2__MKP_63_02_ORIGINAL.jpg
+v2__MKP_63_03_2.jpg
+v2__MKP_63_03_ORIGINAL.jpg
+v2__MKP_63_04_7.jpg
+v2__MKP_63_04_ORIGINAL.jpg
+v2__MKP_63_06_12.jpg
+v2__MKP_63_06_ORIGINAL.jpg
+v2__MKP_63_07_11.jpg
+v2__MKP_63_08_11.jpg
+v2__MKP_63_08_8.jpg
+v2__MKP_63_08_ORIGINAL.jpg
+v2__MKP_63_09_11.jpg
+v2__MKP_63_09_ORIGINAL.jpg
+v2__MKP_64_01_ORIGINAL.jpg
+v2__MKP_64_02_4.jpg
+v2__MKP_64_02_ORIGINAL.jpg
+v2__MKP_64_03_7.jpg
+v2__MKP_64_03_ORIGINAL.jpg
+v2__MKP_64_05_ORIGINAL.jpg
+v2__MKP_64_07_12.jpg
+v2__MKP_64_07_5.jpg
+v2__MKP_64_08_5.jpg
+v2__MKP_65_01_7.jpg
+v2__MKP_65_01_ORIGINAL.jpg
+v2__MKP_66_01_12.jpg
+v2__MKP_66_01_ORIGINAL.jpg
+v2__MKP_66_01_ORIGINAL.jpg
+v2__MKP_67_01_4.jpg
+v2__MKP_67_01_ORIGINAL.jpg
+v2__MKP_68_01_1.jpg
+v2__MKP_68_01_10.jpg
+v2__MKP_69_01_7.jpg
+v2__MKP_69_01_ORIGINAL.jpg
+v2__MKP_69_02_1.jpg
+v2__MKP_69_02_ORIGINAL.jpg
+v2__MKP_69_03_ORIGINAL.jpg
+v2__MKP_70_01_3.jpg
+v2__MKP_70_01_4.jpg
+v2__MKP_71_01_6.jpg
+v2__MKP_71_01_ORIGINAL.jpg
+v2__MKP_71_03_12.jpg
+v2__MKP_71_04_5.jpg
+v2__MKP_71_04_ORIGINAL.jpg
+v2__MKP_72_01_10.jpg
+v2__MKP_72_01_ORIGINAL.jpg
+v2__MKP_72_02_13.jpg
+v2__MKP_72_02_5.jpg
+v2__MKP_72_02_ORIGINAL.jpg
+v2__MKP_72_03_4.jpg
+v2__MKP_72_04_9.jpg
+v2__MKP_72_04_ORIGINAL.jpg
+v2__MKP_72_05_1.jpg
+v2__MKP_72_05_ORIGINAL.jpg
+v2__MKP_72_06_9.jpg
+v2__MKP_72_06_ORIGINAL.jpg
+v2__MKP_72_07_ORIGINAL.jpg
+v2__MKP_72_08_3.jpg
+v2__MKP_72_08_4.jpg
+v2__MKP_73_01_4.jpg
+v2__MKP_73_01_6.jpg
+v2__MKP_73_01_8.jpg
+v2__MKP_73_02_3.jpg
+v2__MKP_73_02_ORIGINAL.jpg
+v2__MKP_73_02_ORIGINAL.jpg
+v2__MKP_73_03_ORIGINAL.jpg
+v2__MKP_73_04_ORIGINAL.jpg
+v2__MKP_73_04_ORIGINAL.jpg
+v2__MKP_73_05_ORIGINAL.jpg
+v2__MKP_73_05_ORIGINAL.jpg
+v2__MKP_74_01_12.jpg
+v2__MKP_74_01_ORIGINAL.jpg
+v2__MKP_74_01_ORIGINAL.jpg
+v2__MKP_74_02_7.jpg
+v2__MKP_74_02_9.jpg
+v2__MKP_74_02_ORIGINAL.jpg
+v2__MKP_74_03_9.jpg
+v2__MKP_74_03_ORIGINAL.jpg
+v2__MKP_74_03_ORIGINAL.jpg
+v2__MKP_75_01_7.jpg
+v2__MKP_75_04_6.jpg
+v2__MKP_75_05_ORIGINAL.jpg
+v2__MKP_75_06_10.jpg
+v2__MKP_75_06_ORIGINAL.jpg
+v2__MKP_76_01_11.jpg
+v2__MKP_76_01_9.jpg
+v2__MKP_76_02_ORIGINAL.jpg
+v2__MKP_77_01_ORIGINAL.jpg
+v2__MKP_78_01_11.jpg
+v2__MKP_78_02_4.jpg
+v2__MKP_78_02_ORIGINAL.jpg
+v2__MKP_78_02_ORIGINAL.jpg
+v2__MKP_78_03_ORIGINAL.jpg
+v2__MKP_78_04_ORIGINAL.jpg
+v2__MKP_78_05_2.jpg
+v2__MKP_78_05_4.jpg
+v2__MKP_78_06_10.jpg
+v2__MKP_78_07_ORIGINAL.jpg
+v2__MKP_79_01_2.jpg
+v2__MKP_79_01_7.jpg
+v2__MKP_79_01_ORIGINAL.jpg
+v2__MKP_79_01_ORIGINAL.jpg
+v2__MKP_80_01_11.jpg
+v2__MKP_80_01_4.jpg
+v2__MKP_80_01_ORIGINAL.jpg
+v2__MKP_80_01_ORIGINAL.jpg
+v2__MKP_80_02_ORIGINAL.jpg
+v2__MKP_80_03_ORIGINAL.jpg
+v2__MKP_80_04_9.jpg
+v2__MKP_81_01_4.jpg
+v2__MKP_81_01_8.jpg
+v2__MKP_81_01_ORIGINAL.jpg
+v2__MKP_81_02_11.jpg
+v2__MKP_81_02_ORIGINAL.jpg
+v2__MKP_82_01_ORIGINAL.jpg
+v2__MKP_82_02_8.jpg
+v2__MKP_83_01_5.jpg
+v2__MKP_83_01_8.jpg
+v2__MKP_83_02_13.jpg
+v2__MKP_83_02_4.jpg
+v2__MKP_83_03_1.jpg
+v2__MKP_83_04_ORIGINAL.jpg
+v2__MKP_83_04_ORIGINAL.jpg
+v2__MKP_83_05_2.jpg
+v2__MKP_83_05_9.jpg
+v2__MKP_83_06_ORIGINAL.jpg
+v2__MKP_83_06_ORIGINAL.jpg
+v2__MKP_86_01_ORIGINAL.jpg
+v2__MKP_86_02_5.jpg
+v2__MKP_86_02_ORIGINAL.jpg
+v2__MKP_86_02_ORIGINAL.jpg
+v2__MKP_86_02_ORIGINAL.jpg
+v2__MKP_86_03_ORIGINAL.jpg
+v2__MKP_86_04_ORIGINAL.jpg
+v2__MKP_87_01_13.jpg
+v2__MKP_87_03_9.jpg
+v2__MKP_87_03_ORIGINAL.jpg
+v2__MKP_88_01_5.jpg
+v2__MKP_88_01_6.jpg
+v2__MKP_88_01_ORIGINAL.jpg
+v2__MKP_88_02_ORIGINAL.jpg
+v2__MKP_88_03_ORIGINAL.jpg
+v2__MKP_90_01_4.jpg
+v2__MKP_90_01_ORIGINAL.jpg
+v2__MKP_90_01_ORIGINAL.jpg
+v2__MKP_90_02_11.jpg
+v2__MKP_90_02_13.jpg
+v2__MKP_90_02_3.jpg
+v2__MKP_90_02_ORIGINAL.jpg
+v2__MKP_90_03_4.jpg
+v2__MKP_90_03_ORIGINAL.jpg
+v2__MKP_90_03_ORIGINAL.jpg
+v2__MKP_90_04_11.jpg
+v2__MKP_90_04_8.jpg
+v2__MKP_90_04_ORIGINAL.jpg
+v2__MKP_91_01_ORIGINAL.jpg
+v2__MKP_92_01_ORIGINAL.jpg
+v2__MKP_92_01_ORIGINAL.jpg
+v2__MKP_93_02_ORIGINAL.jpg
+v2__MKP_93_03_6.jpg
+v2__MKP_93_04_1.jpg
+v2__MKP_94_01_10.jpg
+v2__MKP_94_01_ORIGINAL.jpg
+v2__MKP_94_01_ORIGINAL.jpg
+v2__MKP_95_01_9.jpg
+v2__MKP_95_01_ORIGINAL.jpg
+v2__MKP_96_01_9.jpg
+v2__MKP_97_01_6.jpg
+v2__MKP_97_01_ORIGINAL.jpg
+v2__MKP_98_01_1.jpg
+v2__MKP_98_01_4.jpg
