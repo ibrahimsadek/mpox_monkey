@@ -12,6 +12,7 @@ It packages the main training pipeline, dataset preparation script, example mani
 - `configs/run_config.json` — generic example configuration for the reported benchmark settings.
 - `manifests/` — anonymized example manifests for original and augmented Monkeypox / non-Monkeypox images.
 - `results/` — fold-wise result summaries and aggregate statistics.
+- `results/extractions/` — raw `extract_prediction_bundles.py` output backing the manuscript's additional analyses: `leakage_aware_extract.json` (corrected 4,096-trial run: pooled OOF, threshold-strategy comparison, per-category error analysis), `naive_ablation_extract.json` and `grouped_matched_baseline_extract.json` (the naive-vs-grouped splitting comparison). These are inputs to `scripts/generate_figures.py --extract` and can be inspected directly or re-analyzed with `scripts/extract_prediction_bundles.py`.
 
 ## Repository structure
 
@@ -27,7 +28,11 @@ It packages the main training pipeline, dataset preparation script, example mani
 ├── results/
 │   ├── summary_mean_std.csv
 │   ├── summary_statistics.json
-│   └── fold_*_results.csv
+│   ├── fold_*_results.csv
+│   └── extractions/
+│       ├── leakage_aware_extract.json
+│       ├── naive_ablation_extract.json
+│       └── grouped_matched_baseline_extract.json
 ├── scripts/
 │   ├── prepare_unified_mpox_dataset.py
 │   ├── extract_prediction_bundles.py
@@ -180,7 +185,11 @@ python scripts\extract_prediction_bundles.py --base_dir "C:\path\to\your\outputs
 python scripts\generate_figures.py --outdir figures_out
 ```
 
-Pass `--extract` with the JSON from the command above to compute Figures 4 and 6 fresh from your own run instead of the bundled reference data.
+Pass `--extract` with the JSON from the command above to compute Figures 4 and 6 fresh from your own run instead of the bundled reference data. You can also try this immediately against the committed example output, without running the pipeline yourself:
+
+```cmd
+python scripts\generate_figures.py --outdir figures_out --extract results\extractions\leakage_aware_extract.json
+```
 
 ## Outputs
 
