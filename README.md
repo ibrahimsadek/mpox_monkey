@@ -7,6 +7,8 @@ It packages the main training pipeline, dataset preparation script, example mani
 
 - `main.py` — main training, optimization, calibration, thresholding, and ensemble pipeline.
 - `scripts/prepare_unified_mpox_dataset.py` — dataset unification and curation script.
+- `scripts/extract_prediction_bundles.py` — post-hoc analysis script: reads a completed run's `prediction_bundle.npz`/`validation_bundle.npz` files and computes pooled out-of-fold metrics with bootstrap CIs, the naive-vs-grouped and threshold-strategy comparisons, and per-category error analysis reported in the manuscript.
+- `scripts/generate_figures.py` — regenerates the manuscript's data-driven figures (Figures 2–6) as standalone PDFs; run with no arguments to reproduce the published figures exactly from the bundled reference data in `scripts/*.npz`, or pass `--extract` to compute them fresh from your own `extract_prediction_bundles.py` output.
 - `configs/run_config.json` — generic example configuration for the reported benchmark settings.
 - `manifests/` — anonymized example manifests for original and augmented Monkeypox / non-Monkeypox images.
 - `results/` — fold-wise result summaries and aggregate statistics.
@@ -27,7 +29,11 @@ It packages the main training pipeline, dataset preparation script, example mani
 │   ├── summary_statistics.json
 │   └── fold_*_results.csv
 ├── scripts/
-│   └── prepare_unified_mpox_dataset.py
+│   ├── prepare_unified_mpox_dataset.py
+│   ├── extract_prediction_bundles.py
+│   ├── generate_figures.py
+│   ├── curve_data_convnext_tta_on.npz
+│   └── reliability_data_convnext.npz
 ├── main.py
 ├── requirements.txt
 └── README.md
@@ -159,6 +165,22 @@ python scripts\sanity_check.py
 ```
 
 This verifies the main entry points compile, the example config references repository-local manifests, and the checked-in manifests do not contain private absolute paths.
+
+## Reproducing the reported analysis and figures
+
+After a completed run, `scripts\extract_prediction_bundles.py` reads the per-fold `prediction_bundle.npz` / `validation_bundle.npz` files and computes the pooled out-of-fold metrics, naive-vs-grouped and threshold-strategy comparisons, and per-category error analysis reported in the manuscript:
+
+```cmd
+python scripts\extract_prediction_bundles.py --base_dir "C:\path\to\your\outputs_dir" --output leakage_aware_extract.json
+```
+
+`scripts\generate_figures.py` regenerates the manuscript's data-driven figures (Figures 2–6) as standalone PDFs. With no arguments it reproduces the published figures exactly, using the bundled reference data (`scripts\curve_data_convnext_tta_on.npz`, `scripts\reliability_data_convnext.npz`):
+
+```cmd
+python scripts\generate_figures.py --outdir figures_out
+```
+
+Pass `--extract` with the JSON from the command above to compute Figures 4 and 6 fresh from your own run instead of the bundled reference data.
 
 ## Outputs
 
