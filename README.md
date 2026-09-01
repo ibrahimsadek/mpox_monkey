@@ -202,6 +202,15 @@ A full run writes fold-specific artifacts under the configured output directory,
 - Optuna/NSGA-II objectives: AUC, F1@precision, log loss
 - ensemble weight optimization: random search with 4096 trials
 
+## Leakage-ablation and reporting flags
+
+These are additive and off/on by default as noted; none change the behavior of the reported benchmark unless explicitly enabled:
+
+- `--naive_split_ablation` (off by default): within the `--cv_folds` path, replaces `StratifiedGroupKFold` with plain `StratifiedKFold` (ignoring inferred groups) and assigns augmented images to training at random rather than by group. Quantifies, rather than prevents, the leakage the grouped protocol is designed to avoid, writing `group_overlap_report_naive.csv` (the grouped run's own `group_overlap_report.csv` is written either way). Intended for a dedicated ablation run, not the main benchmark.
+- `--export_fold_composition` (on by default): writes `fold_composition.csv` — per-fold class, source-version (`v1__`/`v2__`), and unique-group counts for every train/val/test partition.
+- `--export_val_bundle` (on by default): writes `validation_bundle.npz` alongside `prediction_bundle.npz`, enabling the threshold-strategy comparison in `scripts/extract_prediction_bundles.py`.
+- `--statistical_testing` (pre-existing flag): in addition to the existing `StatisticalModelSelector`-based `statistical_tests.json` (unchanged), now also writes `prediction_bundle.npz` and a `significance_report_fourway.json` containing McNemar, permutation-F1, Wilcoxon, and DeLong AUC tests with Bonferroni correction for every pairwise model comparison — the analysis behind the manuscript's "Statistical significance of pairwise differences" section.
+
 ## Notes
 
 - The manifests are anonymized to use generic paths and are intended as examples.

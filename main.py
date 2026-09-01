@@ -1961,6 +1961,262 @@ class ModelCompressor:
 # Statistical Model Selection
 # ============================================================================
 
+
+# ============================================================================
+# Four-way paired significance testing (McNemar, permutation-F1, Wilcoxon,
+# DeLong AUC) and prediction-bundle export, added to support the manuscript's
+# "Statistical significance of pairwise differences" analysis. This is a
+# separate, independent addition alongside StatisticalModelSelector above,
+# which is unchanged and continues to serve its existing --statistical_testing
+# role. This block additionally runs when --statistical_testing is enabled.
+# ============================================================================
+
+def _sig_validate_store(model_pred_store: list) -> tuple:
+    if len(model_pred_store) < 2:
+        raise ValueError("Need at least two models for significance testing.")
+    normalized: Dict[str, Dict[str, Any]] = {}
+    y0 = None
+    for record in model_pred_store:
+        model = str(record["model"])
+        y_true = np.asarray(record["y_true"]).reshape(-1)
+        y_pred = np.asarray(record["y_pred"]).reshape(-1)
+        if y_true.shape[0] != y_pred.shape[0]:
+            raise ValueError(f"{model}: y_true/y_pred length mismatch.")
+        y_score = record.get("y_score")
+        if y_score is not None:
+            y_score = np.asarray(y_score).reshape(-1)
+            if y_score.shape[0] != y_true.shape[0]:
+                raise ValueError(f"{model}: y_true/y_score length mismatch.")
+        if y0 is None:
+            y0 = y_true
+        elif not np.array_equal(y0, y_true):
+            raise ValueError("All models must share the same y_true for paired significance testing.")
+        normalized[model] = {"y_true": y_true, "y_pred": y_pred, "y_score": y_score}
+    return y0, normalized
+
+
+def _sig_mcnemar_test(y_true, pred1, pred2):
+    from scipy.stats import chi2, binomtest
+    b = int(np.sum((pred1 != y_true) & (pred2 == y_true)))
+    c = int(np.sum((pred1 == y_true) & (pred2 != y_true)))
+    if b + c < 25:
+        result = binomtest(min(b, c), b + c, 0.5, alternative="two-sided")
+        return float(result.pvalue), float(min(b, c))
+    stat = ((abs(b - c) - 1) ** 2) / max(1, (b + c))
+    return float(1 - chi2.cdf(stat, df=1)), float(stat)
+
+
+def _sig_permutation_f1_test(y_true, pred1, pred2, n_permutations, rng):
+    observed = float(f1_score(y_true, pred1, zero_division=0) - f1_score(y_true, pred2, zero_division=0))
+    diffs = np.empty(int(n_permutations), dtype=float)
+    n = y_true.shape[0]
+    for i in range(int(n_permutations)):
+        swap = rng.random(n) > 0.5
+        p1 = np.where(swap, pred1, pred2)
+        p2 = np.where(swap, pred2, pred1)
+        diffs[i] = f1_score(y_true, p1, zero_division=0) - f1_score(y_true, p2, zero_division=0)
+    p = float((np.sum(np.abs(diffs) >= abs(observed)) + 1) / (len(diffs) + 1))
+    return p, observed
+
+
+def _sig_wilcoxon_score_test(score1, score2):
+    from scipy.stats import wilcoxon
+    try:
+        stat, p = wilcoxon(score1, score2, zero_method="wilcox", correction=False)
+        return float(p), float(stat)
+    except Exception:
+        return None, None
+
+
+def _sig_compute_midrank(x):
+    J = np.argsort(x)
+    Z = x[J]
+    N = len(x)
+    T = np.zeros(N, dtype=float)
+    i = 0
+    while i < N:
+        j = i
+        while j < N and Z[j] == Z[i]:
+            j += 1
+        T[i:j] = 0.5 * (i + j - 1) + 1
+        i = j
+    out = np.empty(N, dtype=float)
+    out[J] = T
+    return out
+
+
+def _sig_fast_delong(scores, label_1_count):
+    m = label_1_count
+    n = scores.shape[1] - m
+    positive = scores[:, :m]
+    negative = scores[:, m:]
+    k = scores.shape[0]
+    tx = np.empty([k, m], dtype=float)
+    ty = np.empty([k, n], dtype=float)
+    tz = np.empty([k, m + n], dtype=float)
+    for r in range(k):
+        tx[r, :] = _sig_compute_midrank(positive[r, :])
+        ty[r, :] = _sig_compute_midrank(negative[r, :])
+        tz[r, :] = _sig_compute_midrank(scores[r, :])
+    aucs = tz[:, :m].sum(axis=1) / (m * n) - (m + 1.0) / (2.0 * n)
+    v01 = (tz[:, :m] - tx[:, :]) / n
+    v10 = 1.0 - (tz[:, m:] - ty[:, :]) / m
+    sx = np.cov(v01)
+    sy = np.cov(v10)
+    delong_cov = sx / m + sy / n
+    return aucs, delong_cov
+
+
+def _sig_delong_auc_test(y_true, score1, score2):
+    import math
+    from scipy.stats import norm
+    y_true = np.asarray(y_true).astype(int)
+    if len(np.unique(y_true)) != 2:
+        return None, None
+    order = np.argsort(-y_true)
+    label_1_count = int(np.sum(y_true))
+    stacked = np.vstack([score1, score2])[:, order]
+    aucs, cov = _sig_fast_delong(stacked, label_1_count)
+    diff = float(aucs[0] - aucs[1])
+    var = float(cov[0, 0] + cov[1, 1] - 2 * cov[0, 1])
+    if var <= 0:
+        return None, diff
+    z = diff / math.sqrt(var)
+    p = float(2 * (1 - norm.cdf(abs(z))))
+    return p, diff
+
+
+def _sig_apply_correction(pairs, alpha, method):
+    method = str(method).lower()
+    if not pairs:
+        return
+    if method == "none":
+        for pair in pairs:
+            pair["adjusted_alpha"] = float(alpha)
+            pair["significant"] = bool(pair["p_value"] is not None and pair["p_value"] < alpha)
+        return
+    if method == "bonferroni":
+        adjusted = float(alpha / len(pairs))
+        for pair in pairs:
+            pair["adjusted_alpha"] = adjusted
+            pair["significant"] = bool(pair["p_value"] is not None and pair["p_value"] < adjusted)
+        return
+    if method == "holm":
+        valid = sorted([p for p in pairs if p["p_value"] is not None], key=lambda x: x["p_value"])
+        n = len(valid)
+        for idx, pair in enumerate(valid):
+            adjusted = float(alpha / max(1, n - idx))
+            pair["adjusted_alpha"] = adjusted
+            pair["significant"] = bool(pair["p_value"] < adjusted)
+        for pair in pairs:
+            if "adjusted_alpha" not in pair:
+                pair["adjusted_alpha"] = None
+                pair["significant"] = False
+        return
+    raise ValueError(f"Unknown correction method: {method}")
+
+
+def build_four_way_significance_report(model_pred_store: list, alpha: float = 0.05,
+                                        correction: str = "bonferroni", permutations: int = 2000,
+                                        random_seed: int = 42) -> dict:
+    """Four complementary paired tests (McNemar, permutation-F1, Wilcoxon,
+    DeLong AUC) applied to every pairwise model comparison, matching the
+    manuscript's "Statistical analysis" / "Statistical significance of
+    pairwise differences" methodology. Independent of StatisticalModelSelector."""
+    y_true, store = _sig_validate_store(model_pred_store)
+    names = list(store.keys())
+    rng = np.random.default_rng(random_seed)
+
+    model_metrics: Dict[str, Dict[str, Any]] = {}
+    for name in names:
+        pred = store[name]["y_pred"]
+        score = store[name]["y_score"]
+        row: Dict[str, Any] = {
+            "accuracy": float(accuracy_score(y_true, pred)),
+            "f1": float(f1_score(y_true, pred, zero_division=0)),
+        }
+        if score is not None and len(np.unique(y_true)) == 2:
+            row["auc"] = float(roc_auc_score(y_true, score))
+        model_metrics[name] = row
+
+    pairwise: Dict[str, Any] = {}
+    family_results: Dict[str, list] = {"mcnemar": [], "permutation_f1": [], "wilcoxon_scores": [], "delong_auc": []}
+
+    for i, name1 in enumerate(names):
+        for j, name2 in enumerate(names):
+            if i >= j:
+                continue
+            pred1, pred2 = store[name1]["y_pred"], store[name2]["y_pred"]
+            score1, score2 = store[name1]["y_score"], store[name2]["y_score"]
+            key = f"{name1}_vs_{name2}"
+            p_mcn, stat_mcn = _sig_mcnemar_test(y_true, pred1, pred2)
+            p_perm, stat_perm = _sig_permutation_f1_test(y_true, pred1, pred2, permutations, rng)
+            p_wil, stat_wil, p_del, stat_del = None, None, None, None
+            if score1 is not None and score2 is not None:
+                p_wil, stat_wil = _sig_wilcoxon_score_test(score1, score2)
+                p_del, stat_del = _sig_delong_auc_test(y_true, score1, score2)
+            pair_entry = {
+                "models": [name1, name2],
+                "metric_summary": {name1: model_metrics[name1], name2: model_metrics[name2]},
+                "tests": {
+                    "mcnemar": {"p_value": p_mcn, "statistic": stat_mcn},
+                    "permutation_f1": {"p_value": p_perm, "statistic": stat_perm},
+                    "wilcoxon_scores": {"p_value": p_wil, "statistic": stat_wil},
+                    "delong_auc": {"p_value": p_del, "statistic": stat_del},
+                },
+            }
+            pairwise[key] = pair_entry
+            family_results["mcnemar"].append({"pair": key, "p_value": p_mcn, "statistic": stat_mcn})
+            family_results["permutation_f1"].append({"pair": key, "p_value": p_perm, "statistic": stat_perm})
+            family_results["wilcoxon_scores"].append({"pair": key, "p_value": p_wil, "statistic": stat_wil})
+            family_results["delong_auc"].append({"pair": key, "p_value": p_del, "statistic": stat_del})
+
+    for family, rows in family_results.items():
+        _sig_apply_correction(rows, alpha, correction)
+        indexed = {row["pair"]: row for row in rows}
+        for pair_key, pair_entry in pairwise.items():
+            if pair_key in indexed:
+                pair_entry["tests"][family]["adjusted_alpha"] = indexed[pair_key]["adjusted_alpha"]
+                pair_entry["tests"][family]["significant"] = indexed[pair_key]["significant"]
+
+    summary = {family: {"n_pairs": len(rows), "significant_pairs": int(sum(1 for r in rows if bool(r.get("significant"))))}
+               for family, rows in family_results.items()}
+
+    return {
+        "metadata": {"alpha": alpha, "correction": correction, "permutations": permutations, "n_models": len(names), "n_pairs": len(pairwise)},
+        "model_metrics": model_metrics,
+        "pairwise": pairwise,
+        "summary": summary,
+    }
+
+
+def export_prediction_bundle(seed_dir, model_pred_store: list, filename: str = "prediction_bundle.npz"):
+    """Exports y_true/pred__X/score__X/files for every model to an npz bundle,
+    for post-hoc analysis via scripts/extract_prediction_bundles.py."""
+    out_dir = Path(seed_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    _, store = _sig_validate_store(model_pred_store)
+    out_path = out_dir / filename
+    arrays: Dict[str, Any] = {}
+    any_model = next(iter(store))
+    arrays["y_true"] = store[any_model]["y_true"]
+    arrays["model_names"] = np.array(list(store.keys()), dtype=object)
+    for model, rec in store.items():
+        safe_model = re.sub(r"[^0-9A-Za-z_]+", "_", model)
+        arrays[f"pred__{safe_model}"] = rec["y_pred"]
+        if rec["y_score"] is not None:
+            arrays[f"score__{safe_model}"] = rec["y_score"]
+    for record in model_pred_store:
+        files = record.get("files")
+        if files:
+            n = len(arrays["y_true"])
+            if len(files) == n:
+                arrays["files"] = np.array([str(f) for f in files], dtype=object)
+            break
+    np.savez_compressed(out_path, **arrays)
+    return out_path
+
+
 class StatisticalModelSelector:
     """Statistical model selection with hypothesis testing."""
     
@@ -5779,6 +6035,20 @@ def main() -> None:
     parser.add_argument("--split_ratios", type=str, default="0.70,0.10,0.20")
     parser.add_argument("--split_strategy", type=str, default="group_stratified", 
                        choices=["group_stratified", "group", "random_stratified"])
+    parser.add_argument("--naive_split_ablation", action="store_true",
+                       help="Leakage ablation: use plain StratifiedKFold (ignoring inferred groups) "
+                            "instead of StratifiedGroupKFold within the --cv_folds path, with augmented "
+                            "images assigned to training at random rather than by group. Quantifies the "
+                            "leakage the grouped protocol is designed to prevent (writes "
+                            "group_overlap_report_naive.csv) rather than trying to eliminate it. "
+                            "Intended for a separate ablation run, not the main benchmark.")
+    parser.add_argument("--export_fold_composition", action="store_true", default=True,
+                       help="Write fold_composition.csv (per-fold class/source-version/unique-group "
+                            "counts for every train/val/test partition). On by default.")
+    parser.add_argument("--export_val_bundle", action="store_true", default=True,
+                       help="Write validation_bundle.npz alongside prediction_bundle.npz, enabling "
+                            "post-hoc threshold-strategy comparison via extract_prediction_bundles.py. "
+                            "On by default.")
 
     # Group arguments
     parser.add_argument("--group_mode", type=str, default="regex",
@@ -6264,20 +6534,47 @@ def main() -> None:
                 extra.append(idx)
         return extra
 
+    def _augment_indices_random_for_naive(k_folds: int, fold_idx: int, seed: int) -> list[int]:
+        # Naive-split-ablation counterpart to _augment_indices_for_train_groups:
+        # each augmented image is assigned to this fold's training set at random,
+        # independent of which fold its source original was assigned to, with
+        # probability matching the nominal (k-1)/k train share of a k-fold split.
+        if orig_n == 0 or aug_n == 0:
+            return []
+        rng_local = np.random.default_rng(seed + fold_idx)
+        keep_prob = (k_folds - 1) / float(k_folds)
+        extra = []
+        for j in range(aug_n):
+            if rng_local.random() < keep_prob:
+                extra.append(aug_offset + j)
+        return extra
+
+    _naive_split_ablation = bool(getattr(args, "naive_split_ablation", False))
+
     if args.cv_folds and args.cv_folds > 1:
         if orig_n == 0:
             raise RuntimeError('GroupKFold CV requires ORIGINAL images. Provide --orig_root and original list files.')
         run_label = 'fold'
         k = int(args.cv_folds)
-        try:
-            from sklearn.model_selection import StratifiedGroupKFold
-            cv = StratifiedGroupKFold(n_splits=k, shuffle=True, random_state=12345)
-            splitter = cv.split(range(orig_n), labels_orig, groups=group_orig)
-        except Exception:
-            from sklearn.model_selection import GroupKFold
-            cv = GroupKFold(n_splits=k)
-            splitter = cv.split(range(orig_n), labels_orig, groups=group_orig)
+        if _naive_split_ablation:
+            # Leakage-inflation ablation: ignore inferred group membership entirely,
+            # using plain StratifiedKFold on original images instead of
+            # StratifiedGroupKFold, so that related images (originals + their
+            # augmented derivatives) can land in different partitions.
+            from sklearn.model_selection import StratifiedKFold
+            cv = StratifiedKFold(n_splits=k, shuffle=True, random_state=12345)
+            splitter = cv.split(range(orig_n), labels_orig)
+        else:
+            try:
+                from sklearn.model_selection import StratifiedGroupKFold
+                cv = StratifiedGroupKFold(n_splits=k, shuffle=True, random_state=12345)
+                splitter = cv.split(range(orig_n), labels_orig, groups=group_orig)
+            except Exception:
+                from sklearn.model_selection import GroupKFold
+                cv = GroupKFold(n_splits=k)
+                splitter = cv.split(range(orig_n), labels_orig, groups=group_orig)
 
+        _group_overlap_rows = []
         for fold_idx, (trainval_idx, test_idx) in enumerate(splitter):
             trainval_idx = list(map(int, trainval_idx))
             test_idx = list(map(int, test_idx))
@@ -6287,18 +6584,81 @@ def main() -> None:
             tr_groups = set(group_orig[i] for i in tr_orig)
             va_groups = set(group_orig[i] for i in va_orig)
             te_groups = set(group_orig[i] for i in test_idx)
-            if (tr_groups & va_groups) or (tr_groups & te_groups) or (va_groups & te_groups):
-                raise RuntimeError('Internal error: group overlap across CV splits')
+
+            if _naive_split_ablation:
+                # Quantify, rather than prevent, the leakage this split strategy permits.
+                overlap = te_groups & tr_groups
+                n_test_groups = max(1, len(te_groups))
+                _group_overlap_rows.append({
+                    "fold": fold_idx,
+                    "train_test_group_overlap": len(overlap),
+                    "train_val_group_overlap": len(tr_groups & va_groups),
+                    "val_test_group_overlap": len(va_groups & te_groups),
+                    "n_test_groups": len(te_groups),
+                    "pct_test_groups_also_in_train": round(100.0 * len(overlap) / n_test_groups, 4),
+                })
+            else:
+                if (tr_groups & va_groups) or (tr_groups & te_groups) or (va_groups & te_groups):
+                    raise RuntimeError('Internal error: group overlap across CV splits')
+                _group_overlap_rows.append({
+                    "fold": fold_idx, "train_test_group_overlap": 0, "train_val_group_overlap": 0,
+                    "val_test_group_overlap": 0, "n_test_groups": len(te_groups),
+                    "pct_test_groups_also_in_train": 0.0,
+                })
 
             tr_idx_full = [i for i in tr_orig]
             va_idx_full = [i for i in va_orig]
             te_idx_full = [i for i in test_idx]
 
-            tr_idx_full += _augment_indices_for_train_groups(tr_groups)
+            if _naive_split_ablation:
+                tr_idx_full += _augment_indices_random_for_naive(k, fold_idx, seed=12345)
+            else:
+                tr_idx_full += _augment_indices_for_train_groups(tr_groups)
 
             fold_splits.append(SplitIndices(train=tr_idx_full, val=va_idx_full, test=te_idx_full))
 
+        try:
+            _overlap_csv_path = Path(args.output_dir) / (
+                "group_overlap_report_naive.csv" if _naive_split_ablation else "group_overlap_report.csv")
+            _overlap_csv_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(_overlap_csv_path, "w", newline="", encoding="utf-8") as _f:
+                _writer = csv.DictWriter(_f, fieldnames=list(_group_overlap_rows[0].keys()))
+                _writer.writeheader()
+                _writer.writerows(_group_overlap_rows)
+            print(f"[GroupOverlap] Wrote {_overlap_csv_path}")
+        except Exception as e:
+            print(f"WARNING: failed to write group overlap report: {e}")
+
         run_ids = list(range(len(fold_splits)))
+
+        # Per-fold class / source-version / unique-group composition export,
+        # for exact reproduction of dataset-composition reporting (Table 3 of
+        # the manuscript) directly from the released outputs.
+        if bool(getattr(args, "export_fold_composition", True)):
+            try:
+                _comp_rows = []
+                for _fi, _sp in enumerate(fold_splits):
+                    for _split_name, _idxs in [("train", _sp.train), ("val", _sp.val), ("test", _sp.test)]:
+                        _n_pos = sum(1 for _i in _idxs if full_samples[_i][1] == 1)
+                        _n_neg = sum(1 for _i in _idxs if full_samples[_i][1] == 0)
+                        _n_v1 = sum(1 for _i in _idxs if Path(str(full_samples[_i][0])).name.startswith("v1__"))
+                        _n_v2 = sum(1 for _i in _idxs if Path(str(full_samples[_i][0])).name.startswith("v2__"))
+                        _n_groups = len(set(full_group_ids[_i] for _i in _idxs))
+                        _comp_rows.append({
+                            "fold": _fi, "split": _split_name,
+                            "n_positive": _n_pos, "n_negative": _n_neg,
+                            "n_source_v1": _n_v1, "n_source_v2": _n_v2,
+                            "n_unique_groups": _n_groups,
+                        })
+                _comp_path = Path(args.output_dir) / "fold_composition.csv"
+                _comp_path.parent.mkdir(parents=True, exist_ok=True)
+                with open(_comp_path, "w", newline="", encoding="utf-8") as _f:
+                    _writer = csv.DictWriter(_f, fieldnames=list(_comp_rows[0].keys()))
+                    _writer.writeheader()
+                    _writer.writerows(_comp_rows)
+                print(f"[FoldComposition] Wrote {_comp_path}")
+            except Exception as e:
+                print(f"WARNING: failed to write fold_composition.csv: {e}")
 
         # Leakage sanity check: print example groups (original vs augmented)
         n_show = int(args.cv_print_groups)
@@ -6380,6 +6740,7 @@ def main() -> None:
         ens_test_y: Optional[np.ndarray] = None
 
         model_pred_store: list[Dict[str, Any]] = []
+        val_pred_store: list[Dict[str, Any]] = []  # for --export_val_bundle / threshold-strategy comparison
 
         for mname in models_to_run:
             m_out = seed_dir / mname
@@ -6858,6 +7219,17 @@ def main() -> None:
 
             thr = find_best_threshold(va_y2, va_s2, args.threshold_strategy, min_recall=args.min_recall, min_precision=float(getattr(args, "precision_target", 0.0)))
             thr_for_test = None if args.threshold_strategy == "none" else thr
+
+            # Store post-calibration validation predictions for --export_val_bundle
+            try:
+                val_pred_store.append({
+                    "model": str(mname),
+                    "y_true": np.asarray(va_y2),
+                    "y_pred": (np.asarray(va_s2) >= 0.5).astype(int),
+                    "y_score": np.asarray(va_s2),
+                })
+            except Exception as e:
+                print(f"WARNING: failed to store validation predictions for {mname}: {e}")
 
 
             if thr_for_test is not None:
@@ -7409,6 +7781,36 @@ def main() -> None:
                     print(f"    [Stats] Saved statistical test results -> {out_path}")
             except Exception as e:
                 print(f"WARNING: Statistical testing failed (need scipy installed for some tests): {e}")
+
+        # Additional exports, independent of StatisticalModelSelector above:
+        # prediction bundle (for scripts/extract_prediction_bundles.py), the
+        # four-way paired significance report, and the validation bundle
+        # (for threshold-strategy comparison). All opt-in via existing/new flags.
+        if bool(getattr(args, "statistical_testing", False)) and len(model_pred_store) >= 2:
+            try:
+                bundle_path = export_prediction_bundle(seed_dir, model_pred_store)
+                print(f"    [Bundle] Saved prediction bundle -> {bundle_path}")
+            except Exception as e:
+                print(f"WARNING: failed to export prediction_bundle.npz: {e}")
+            try:
+                four_way = build_four_way_significance_report(
+                    model_pred_store,
+                    alpha=float(getattr(args, "test_alpha", 0.05)),
+                    correction=str(getattr(args, "test_correction", "bonferroni")),
+                )
+                four_way_path = seed_dir / "significance_report_fourway.json"
+                with open(four_way_path, "w", encoding="utf-8") as f:
+                    json.dump(four_way, f, indent=2)
+                print(f"    [Stats] Saved four-way significance report -> {four_way_path}")
+            except Exception as e:
+                print(f"WARNING: four-way significance report failed: {e}")
+
+        if bool(getattr(args, "export_val_bundle", True)) and len(val_pred_store) >= 1:
+            try:
+                val_bundle_path = export_prediction_bundle(seed_dir, val_pred_store, filename="validation_bundle.npz")
+                print(f"    [Bundle] Saved validation bundle -> {val_bundle_path}")
+            except Exception as e:
+                print(f"WARNING: failed to export validation_bundle.npz: {e}")
 
 # Save per-seed results
         if seed_rows:
