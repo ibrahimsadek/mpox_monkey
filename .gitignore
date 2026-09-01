@@ -16,6 +16,10 @@ logs/
 *.onnx
 *.npy
 *.npz
+# Exception: small, intentional reference data bundled with generate_figures.py
+# (verified to reproduce the published figures exactly; not a run-output artifact)
+!scripts/curve_data_convnext_tta_on.npz
+!scripts/reliability_data_convnext.npz
 *.jpg
 *.jpeg
 *.png
